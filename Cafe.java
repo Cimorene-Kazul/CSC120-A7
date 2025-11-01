@@ -10,7 +10,7 @@ public class Cafe extends Building implements CafeRequirements{
     private int nCups; // The number of cups remaining in inventory
 
     /**
-     * Constructor for a Cafe with fewer inputs.
+     * Constructor for a Cafe with fewer inputs. 
      * This prevents errors from being thrown if starting values are not given for ingredients. Instead, the Cafe starts with 0 ounces of coffee, sugar packets, creams, and cups.
      * @param name is a String that indicates the name of the cafe.
      * @param address is a String that indicates the cafe's address.
