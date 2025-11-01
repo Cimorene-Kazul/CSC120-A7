@@ -1,4 +1,3 @@
-Use this file to record your reflection on this assignment.
+Inheritance seems like an awesome way to add structure and modeling at the same time as making less work. I like inheritance, but the instructions for this assignment were really unclear. I asked my dad for help, but neither of us could get a full sense of the expectations for the code, and he's a professional programmer, so I hipe this works and I recommend asking for lots of clarification and going to lots of office hours if you can. I got sick, so that's part of it. But things like GeeksforGeeks and the documentation is good enough to do decently.
 
-- What are your initial impressions of how `Inheritance` affects your programming?
-- What worked, what didn't, what advice would you give someone taking this course in the future?
+My VSCode threw a fit, which made code take forever to run. To fix this bug, I went and removed my TeX extensions, which fixed it.
