@@ -32,7 +32,7 @@ public class Cafe extends Building implements CafeRequirements{
      * @param startingCups is a nonnegative integer indicating the number of cups the cafe starts with.
      */
     public Cafe(String name, String address, int nFloors, int startingCoffeeOunces, int startingSugarPackets, int startingCreams, int startingCups) {
-        // call the superclass constructor
+        // use the superclass constructor
         super(name, address, nFloors);
         // throw an exception if the inputs are bad
         if (startingCoffeeOunces<0||startingSugarPackets<0||startingCreams<0||startingCups<0){
